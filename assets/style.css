@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&family=Source+Code+Pro:wght@300&display=swap');
+*{
+    background-color: #042c41;
+    font-family: Belanosima,sans-serif;
+
+}
+body {
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    margin: auto;
+    width: 90%;
+    padding: 2rem 0;
+}
+label{
+    display: block;
+}
+h1 {
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0;
+}
+h3{
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+
+}
+textarea {
+    font-family: Source Code Pro,sans-serif;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    outline:none;
+    border: 2px solid #26A69A;
+    transition: 0.4s;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 1rem;
+}
+textarea::placeholder{
+    color: #c0b4b4;
+}
+.dcd_btn{
+    display: block;
+    background-color: #26A69A;
+    margin: 1rem 0;
+    border-radius: 0.3rem;
+    width: 100%;
+    border: none;
+    padding: 1rem;
+    font-weight: 700;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.dcd_btn:hover{
+    background-color: #228178;
+    transition: 0.7s;
+
+}
