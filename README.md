@@ -12,3 +12,6 @@ In order to run this script, you need to `clone` the full repo into your Host or
 
 ### NOTE
 This decoder is only compatible with files that are encoded by specified encoder.
+
+### How it Works (Youtube)
+[![MiladWorkShop_Decoder](https://img.youtube.com/vi/nnIzlApa4p0/0.jpg)](https://www.youtube.com/watch?v=nnIzlApa4p0)
